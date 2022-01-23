@@ -1,0 +1,49 @@
+.user-panel{
+	height: 40px;
+}
+.user-panel>.info{
+	position: relative;
+	left: auto;
+}
+.skin-blue .sidebar-menu>li.header{
+	color: white;
+	text-align: center;
+	font-weight: bold;
+}
+.iconawesome:before{
+	padding-right: 5px;
+}
+.skin-blue .main-header .navbar{
+	background-color: #4caf50;
+}
+.skin-blue .main-header .logo{
+	background-color: #2e7d32;
+}
+.main-footer{
+	background-color: dimgray;
+	color: #ffffff;
+	text-align: center;
+}
+.btn-primary{
+	background-color: #1064ad;
+}
+
+body.login{
+	background-image: linear-gradient(to right, #1a7303, #31c10b);
+}
+.login-box-body{
+	border-radius: 10px;
+	box-shadow: 0px 25px 35px -18px rgba(0,0,0,0.56);
+}
+.login .main-footer{
+	display: none;
+}
+.form-title h3{
+	text-align: center;
+}
+.login-logo a, .register-logo a{
+	color: #ffffff;
+}
+.division_icon{
+	text-align: center;
+}
